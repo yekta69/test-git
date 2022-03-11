@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>test_git</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="controller\" />
+  </ItemGroup>
+
+</Project>
